@@ -1,0 +1,49 @@
+[{
+"image": "/build/mock/source/song_1.jpg",
+"audioUrl": "/build/mock/source/BlueJeans.mp3",
+"song": "Blue Jeans",
+"album": "Born to Die",
+"singer": "Lana Del Rey",
+"duration": 210,
+"isLike": true
+}, {
+"image": "/build/mock/source/song_2.jpg",
+"audioUrl":"/build/mock/source/ChasingPavements.mp3",
+"song":"Chasing Pavements",
+"album": "Live at the Royal Albert Hall",
+"singer": "Adele",
+"duration": 221,
+"isLike": true
+}, {
+"image": "/build/mock/source/song_3.jpg",
+"audioUrl": "/build/mock/source/CloseToYou.mp3",
+"song": "Close to You",
+"album": "The Carpenters",
+"singer": "The Carpenters",
+"duration": 220,
+"isLike": false
+},{
+"image": "/build/mock/source/song_3.jpg",
+"audioUrl": "/build/mock/source/CloseToYou.mp3",
+"song": "Close to You",
+"album": "The Carpenters",
+"singer": "The Carpenters",
+"duration": 220,
+"isLike": false
+},{
+"image": "/build/mock/source/song_3.jpg",
+"audioUrl": "/build/mock/source/CloseToYou.mp3",
+"song": "Close to You",
+"album": "The Carpenters",
+"singer": "The Carpenters",
+"duration": 220,
+"isLike": false
+},{
+"image": "/build/mock/source/song_3.jpg",
+"audioUrl": "/build/mock/source/CloseToYou.mp3",
+"song": "Close to You",
+"album": "The Carpenters",
+"singer": "The Carpenters",
+"duration": 220,
+"isLike": false
+}]

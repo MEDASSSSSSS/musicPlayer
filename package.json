@@ -1,0 +1,32 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "a music app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "html5",
+    "practice"
+  ],
+  "author": "ashley",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.4.5",
+    "cssnano": "^4.1.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-less": "^4.0.1",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.1"
+  },
+  "dependencies": {
+    "gulp-newer": "^1.4.0"
+  }
+}
